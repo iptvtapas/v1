@@ -17,7 +17,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/NPoFh" group-title="🏆 All Sports",Fox Sports - FIFA 2026 by TAPAS
-http://84.17.50.102/fox/index.m3u8
+http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=f0e935f7ded22ca5ec138a8a1bdd0783c143f2f0-72abea8effadde408717c21c70ba02fa-1776169
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="📺 Entertainment 🇧🇩",Drama 24
 http://vods2.aynascope.net/gseriesDrama/index.m3u8
