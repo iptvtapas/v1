@@ -571,3 +571,6 @@ http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8?token=544f08111346de6231cb2
 #EXTINF:-1 tvg-logo="https://da.gd/iAYuP" group-title="👑 Admin",My favorite song.
 https://drive.google.com/uc?export=download&id=1V6LNrewnS4WeSF9n52EpPSeeUlKtoJJB
 
+#EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" group-title="🏆 All Sports",BTV LIVE
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+
